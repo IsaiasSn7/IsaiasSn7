@@ -142,12 +142,12 @@ Me chamo Isaías Sousa, tenho 24 anos e sou natural do Ceará. Atualmente, estou
 
 ### 📊 Estatísticas
 
-<p>
+<p display="flex">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    width="auto"
+    width="full"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=IsaiasSn7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -156,7 +156,7 @@ Me chamo Isaías Sousa, tenho 24 anos e sou natural do Ceará. Atualmente, estou
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="auto"
+      width="full"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasSn7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
