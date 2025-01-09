@@ -84,7 +84,7 @@ Me chamo Isaías Sousa, tenho 24 anos e sou natural do Ceará. Atualmente, estou
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="300px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
