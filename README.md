@@ -111,10 +111,5 @@ Me chamo Isaías Sousa, tenho 24 anos e sou natural do Ceará. Atualmente, estou
   />
 </p>
 
-<br/>
-<br/>
 
-### Profile Trophies 🏆
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=IsaiasSn7&column=10&theme=darkhub&no-bg=true)
 
