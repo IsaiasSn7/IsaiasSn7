@@ -15,7 +15,7 @@
 
 ---
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/IsaiasSn7/Site-Meu-Portifolio/refs/heads/main/img/gif-pc.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/IsaiasSn7/Site-Meu-Portifolio/refs/heads/main/img/pc-gif.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
