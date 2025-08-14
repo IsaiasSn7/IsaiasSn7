@@ -1,4 +1,4 @@
-![Twitter Banner (1)](https://raw.githubusercontent.com/IsaiasSn7/Site-Meu-Portifolio/refs/heads/main/img/banner-git.png)
+![Twitter Banner (1)](https://raw.githubusercontent.com/IsaiasSn7/My-Portifolio-teste/refs/heads/main/imgs/banner.png)
 
 # 👨🏻‍💻 Isaías Sousa
 
@@ -60,4 +60,10 @@
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/whatsapp-43853D?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
+
+<br/><br/>
+
+![Twitter Banner (1)](https://raw.githubusercontent.com/IsaiasSn7/My-Portifolio-teste/refs/heads/main/imgs/banner.png)
