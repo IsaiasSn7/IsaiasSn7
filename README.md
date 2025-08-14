@@ -6,12 +6,12 @@
 
 ***> Me chamo Isaías Sousa, tenho 24 anos e sou natural do Ceará. Atualmente, estou cursando desenvolvimento Full Stack. Sou apaixonado por tecnologia e gosto muito de trabalhar em conjunto em prol de alcançar grandes objetivos.***
 
-❇️ **`>_`** &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software.\
-❇️ **`>_`** &nbsp;Atualmente, estou estudando Desenvolvimento FullStack.\
-❇️ **`>_`** &nbsp;Estou em busca de aprender mais sobre Inteligência Artificial, Design de Sistemas e Arquitetura de Nuvem.\
-❇️ **`>_`** &nbsp;No meu tempo livre, dedico-me a Design Gráfico e desenvolvo aplicações como hobbies/atividades paralelas.\
-❇️ **`>_`** &nbsp;Você pode me enviar um e-mail para isaiassousa19092000@gmail.com tentarei responder o mais breve possível.\
-❇️ **`>_`** &nbsp;Dê uma olhada no meu portifólio para mais detalhes sobre mim. [IsaiasDev](https://site-meu-portifolio.vercel.app/) Estou aberto a feedbacks e sugestões!
+🔷 **`>_`** &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software.\
+🔷 **`>_`** &nbsp;Atualmente, estou estudando Desenvolvimento FullStack.\
+🔷 **`>_`** &nbsp;Estou em busca de aprender mais sobre Inteligência Artificial, Design de Sistemas e Arquitetura de Nuvem.\
+🔷 **`>_`** &nbsp;No meu tempo livre, dedico-me a Design Gráfico e desenvolvo aplicações como hobbies/atividades paralelas.\
+🔷 **`>_`** &nbsp;Você pode me enviar um e-mail para isaiassousa19092000@gmail.com tentarei responder o mais breve possível.\
+🔷 **`>_`** &nbsp;Dê uma olhada no meu portifólio para mais detalhes sobre mim. [IsaiasDev](https://site-meu-portifolio.vercel.app/) Estou aberto a feedbacks e sugestões!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
