@@ -43,12 +43,12 @@
 
 
 
-<p align="center">
-<a href="https://github.com/IsaiasSn7">
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsaiasSn7&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaiasSn7&layout=compact&langs_count=8&theme=gotham"/>
-</a>
-</p>
+
+  
+  ![isaiassn7's Stats](https://github-readme-stats.vercel.app/api?username=isaiassn7&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+  ![isaiassn7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaiassn7&theme=outrun&show_icons=true&hide_border=false&layout=compact)
+  
+
 
 ## ✅ &nbsp;Connect with Me
 
