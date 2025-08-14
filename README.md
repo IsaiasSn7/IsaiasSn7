@@ -13,11 +13,12 @@
 ❇️ **`>_`** &nbsp;Você pode me enviar um e-mail para isaiassousa19092000@gmail.com tentarei responder o mais breve possível.\
 ❇️ **`>_`** &nbsp;Dê uma olhada no meu portifólio para mais detalhes sobre mim. [IsaiasDev](https://site-meu-portifolio.vercel.app/) Estou aberto a feedbacks e sugestões!
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/IsaiasSn7/Site-Meu-Portifolio/refs/heads/main/img/pc-gif.gif" align="right"/> -->
+<br/><br/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-f46d00?style=for-the-badge&logo=git&logoColor=white" />
@@ -39,10 +40,11 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Figma-b412ad?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
----
+<br/><br/>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/IsaiasSn7">
@@ -50,6 +52,8 @@
   <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsaiasSn7&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
+
+---
 
 ### ✅ &nbsp;Connect with Me
 
