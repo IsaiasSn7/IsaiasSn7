@@ -16,7 +16,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/IsaiasSn7/Site-Meu-Portifolio/refs/heads/main/img/pc-gif.gif" align="right"/> -->
-<br/><br/>
 
 ## 🛠 &nbsp;Tech Stack
 
