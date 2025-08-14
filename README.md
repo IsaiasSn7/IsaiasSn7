@@ -29,10 +29,10 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=blue" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Prisma-grey?style=for-the-badge&logo=Prisma&logoColor=19c9af" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/-Express-373737?style=for-the-badge&logo=Express&logoColor=green" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/axios.js-white?style=for-the-badge&logo=axios&logoColor=5A29E4" /><br/><br/>
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Prisma-grey?style=for-the-badge&logo=Prisma&logoColor=19c9af" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=e20402" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress&logoColor=23E5E5E5" />
