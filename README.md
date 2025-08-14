@@ -1,4 +1,4 @@
-![Twitter Banner (1)](https://raw.githubusercontent.com/IsaiasSn7/Site-Meu-Portifolio/refs/heads/main/img/banner-twiter.jpg)
+![Twitter Banner (1)](https://raw.githubusercontent.com/IsaiasSn7/Site-Meu-Portifolio/refs/heads/main/img/banner-git.png)
 
 # 👨🏻‍💻 Isaías Sousa
 
