@@ -52,7 +52,7 @@
 <a href="https://www.instagram.com/isaias_snunes/"><img src="https://img.shields.io/badge/Instagram-a100c5.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/isaias-sousa-2994a6199/"><img src="https://img.shields.io/badge/linkedin-0a72ff.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://site-meu-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:isaiassousa19092000@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="isaiassousa19092000@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send/?phone=%2B55085988786832&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/whatsapp-26a900?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
