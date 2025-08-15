@@ -49,15 +49,17 @@
 ## 📧 &nbsp;Contact Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/Instagram-a100c5.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/linkedin-0a72ff.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/whatsapp-43853D?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/whatsapp-26a900?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=isaiassn7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=isaiassn7&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<!--   <img src="https://github-profile-trophy.vercel.app?username=isaiassn7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
