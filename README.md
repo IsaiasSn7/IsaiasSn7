@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-***> Me chamo Isaías Sousa, tenho 24 anos e sou natural do Ceará. Atualmente, estou cursando desenvolvimento Full Stack. Sou apaixonado por tecnologia e gosto muito de trabalhar em conjunto em prol de alcançar grandes objetivos.***
+***> "Me chamo Isaías Sousa, tenho 24 anos e sou natural do Ceará. Sou apaixonado por tecnologia e gosto muito de trabalhar em conjunto em prol de alcançar grandes objetivos."***
 
 💠 **`>_`** &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções de software.\
 💠 **`>_`** &nbsp;Estou em busca de aprender mais sobre Inteligência Artificial, Design de Sistemas e Arquitetura de Nuvem.\
