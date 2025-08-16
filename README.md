@@ -35,6 +35,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=e20402" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress&logoColor=23E5E5E5" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Figma-b412ad?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=black" />
 </div>
 
 ## ⚙️ &nbsp;GitHub Analytics
