@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 Isaías Sousa
 
-**`Desenvolvedor FullStack`**
+<img src="https://img.shields.io/badge/DESENVOLVEDOR%20FULL%20STACK-0058e0">
 
 ***"Me chamo Isaías Sousa, tenho 24 anos e sou natural do Ceará. Sou apaixonado por tecnologia e gosto muito de trabalhar em conjunto em prol de alcançar grandes objetivos."***
 
